@@ -1,22 +1,3 @@
-# Github Pages (with self repo)
-
-## Story
-
-Making a website to show it only on your laptop is no fun.
-To serve your content, you will need a server. 
-
-Luckily, you won’t always need a whole computer to act as a server, 
-but there are many different ways to share your page. 
-Like when you have a static site - which consists only of HTML, CSS and JS (and image) files - 
-there are many options for hosting. One of the most commonly used one is GitHub Pages, 
-GitHub’s own solution.
-
-Let’s clone a test project, and share it with the world!
-
-## What are you going to learn?
-
-- How easy it is to use an online service for hosting
-- A way to publish a static website
 
 ## Tasks
 
@@ -32,10 +13,6 @@ Let’s clone a test project, and share it with the world!
 
 3. Follow the official tutorial for a "Project site", and share your project with the world.
     - The modified webpage is available at `https://<username>.github.io/my-first-github-page`
-
-## General requirements
-
-None
 
 ## Hints
 
